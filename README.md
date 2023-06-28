@@ -1,6 +1,6 @@
-#Paper, Rock, Scissors
-##Modules:
-###Python
+# Paper, Rock, Scissors
+## Modules:
+### Python
 
 - pygame
 - random
